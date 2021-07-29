@@ -1,7 +1,9 @@
 public class Abc
 {
     public static void main(String args[])
-    {
-        System.out.println("Hello from Java Program");
+    {   
+        if(true) 
+     
+                  System.out.println("Hello from Java Program");
     }
 }
